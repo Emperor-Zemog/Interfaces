@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8af50110-69ea-41bf-8fc1-234b1cdfd45f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestText.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BigRectLister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BigRectangleFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShortLister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShortWordFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VMGMule.java" afterDir="false" />
-    </list>
+    <list default="true" id="8af50110-69ea-41bf-8fc1-234b1cdfd45f" name="Changes" comment="Created class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675446643701</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created class">
+      <created>1675641587365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675641587365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created class" />
   </component>
 </project>
